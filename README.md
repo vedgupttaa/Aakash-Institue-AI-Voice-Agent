@@ -2,6 +2,9 @@
 
 ## Project Overview
 An AI-powered voice assistant built using ElevenLabs, designed to handle incoming calls for Aakash Institute and provide automated responses to student queries.
+## Project Demo
+
+[Watch the AI Voice Agent Demo](./aakash_ai_voice_agent_demo_smooth_compressed.mp4)
 
 ## Features
 - AI-powered voice conversations
